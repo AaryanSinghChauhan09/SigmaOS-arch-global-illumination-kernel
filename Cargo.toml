@@ -1,0 +1,9 @@
+[package]
+name = "arch-global-illumination-kernel"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS SigmaOS-arch-global-illumination-kernel component - Inspired by Arch Linux and Debian"
+license = "MIT"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-global-illumination-kernel"
+
+[dependencies]
